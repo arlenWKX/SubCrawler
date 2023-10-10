@@ -1,5 +1,5 @@
-trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@msk-hk-8982.strongpipe.live:29444?allowInsecure=1&peer=106-110-192-225.d.cjjd20.com&alpn=h2#%E5%BE%B7%E5%9B%BD_1006001
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.235:443?peer=sg1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=sg1.pqjc.buzz;obfs-uri=/pq/sg1#%E6%9C%AA%E7%9F%A5_1006001
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443?peer=sg1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=sg1.pqjc.buzz;obfs-uri=/pq/sg1#%E6%9C%AA%E7%9F%A5_1006002
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.103:443?peer=jp5.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=jp5.pqjc.buzz;obfs-uri=/pq/jp5#%E6%9C%AA%E7%9F%A5_1006003
-trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@msk-tw-9214.strongpipe.live:29444?allowInsecure=1&peer=106-110-192-225.d.cjjd20.com&alpn=h2#%E7%BE%8E%E5%9B%BD_1006001
+trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@msk-hk-8982.strongpipe.live:29444?allowInsecure=1&peer=106-110-192-225.d.cjjd20.com&alpn=h2#%E5%BE%B7%E5%9B%BD_1010001
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.235:443?peer=sg1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=sg1.pqjc.buzz;obfs-uri=/pq/sg1#%E6%9C%AA%E7%9F%A5_1010001
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443?peer=sg1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=sg1.pqjc.buzz;obfs-uri=/pq/sg1#%E6%9C%AA%E7%9F%A5_1010002
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.103:443?peer=jp5.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=jp5.pqjc.buzz;obfs-uri=/pq/jp5#%E6%9C%AA%E7%9F%A5_1010003
+trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@msk-tw-9214.strongpipe.live:29444?allowInsecure=1&peer=106-110-192-225.d.cjjd20.com&alpn=h2#%E7%BE%8E%E5%9B%BD_1010001
