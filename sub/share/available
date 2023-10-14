@@ -1,5 +1,9 @@
-trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@msk-hk-8982.strongpipe.live:29444?allowInsecure=1&peer=106-110-192-225.d.cjjd20.com&alpn=h2#%E5%BE%B7%E5%9B%BD_1010001
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.235:443?peer=sg1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=sg1.pqjc.buzz;obfs-uri=/pq/sg1#%E6%9C%AA%E7%9F%A5_1010001
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443?peer=sg1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=sg1.pqjc.buzz;obfs-uri=/pq/sg1#%E6%9C%AA%E7%9F%A5_1010002
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.103:443?peer=jp5.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=jp5.pqjc.buzz;obfs-uri=/pq/jp5#%E6%9C%AA%E7%9F%A5_1010003
-trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@msk-tw-9214.strongpipe.live:29444?allowInsecure=1&peer=106-110-192-225.d.cjjd20.com&alpn=h2#%E7%BE%8E%E5%9B%BD_1010001
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.39.108:443?peer=pus4.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=pus4.pqjc.buzz;obfs-uri=/pq/us4#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1014001
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.18:443?peer=pjp2.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=pjp2.pqjc.buzz;obfs-uri=/pq/jp2#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1014002
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.26:443?peer=pjp3.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=pjp3.pqjc.buzz;obfs-uri=/pq/jp3#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1014003
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.13:443?peer=pjp1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=pjp1.pqjc.buzz;obfs-uri=/pq/jp1#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1014004
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.176:443?peer=sg1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=sg1.pqjc.buzz;obfs-uri=/pq/sg1#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1014005
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.108:443?peer=sg1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=sg1.pqjc.buzz;obfs-uri=/pq/sg1#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1014006
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.39.18:443?peer=pus1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=pus1.pqjc.buzz;obfs-uri=/pq/us1#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1014007
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@qjp6.pqjc.buzz:443?peer=qjp6.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=qjp6.pqjc.buzz;obfs-uri=/pq/jp6#%E6%9C%AA%E7%9F%A5_1014001
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@qus3.pqjc.buzz:443?peer=qus3.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=qus3.pqjc.buzz;obfs-uri=/pq/us3#%E7%BE%8E%E5%9B%BD_1014001
