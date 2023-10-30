@@ -1,13 +1,3 @@
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqhinet3.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E5%8F%B0%E6%B9%BE_1026001
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@gsawssg2.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1026001
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@gsawssg1.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1026002
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawssg1.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1026003
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawssg2.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1026004
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawsjp4.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%97%A5%E6%9C%AC_1026001
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawsjp3.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%97%A5%E6%9C%AC_1026002
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawsjp1.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%97%A5%E6%9C%AC_1026003
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@gsawsjp2.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%97%A5%E6%9C%AC_1026004
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@gsawshk1.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%97%A5%E6%9C%AC_1026005
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawsjp2.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%97%A5%E6%9C%AC_1026006
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@gsawshk2.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E6%97%A5%E6%9C%AC_1026007
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@gsawsjp1.aiopen.cfd:443?peer=18-140-66-207.nhost.00cdn.com&tfo=1#%E7%91%9E%E5%A3%AB_1026001
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@23.227.39.18:443?peer=pus1.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=pus1.pqjc.buzz;obfs-uri=/pq/us1#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1030001
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@198.41.223.83:443?peer=2us3.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=2us3.pqjc.buzz;obfs-uri=/pq/us3#%E6%9C%AA%E7%9F%A5_1030001
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@198.41.223.133:443?peer=2us4.pqjc.buzz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=2us4.pqjc.buzz;obfs-uri=/pq/us4#%E6%9C%AA%E7%9F%A5_1030002
