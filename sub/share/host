@@ -1,4 +1,4 @@
-##### 更新时间2024-03-07 12:14:41 #####
+##### 更新时间2024-03-10 12:14:17 #####
 
 104.18.32.7	stackoverflow.com
 104.18.43.226	stackexchange.com
@@ -25,7 +25,7 @@
 162.159.128.232	images-ext-2.discordapp.net
 162.159.128.232	images-ext-1.discordapp.net
 162.159.128.234	discordcdn.com
-23.201.73.60	lastpass.com
+104.112.26.32	lastpass.com
 13.107.213.38	logincdn.msauth.net
 13.107.213.40	acctcdn.msauth.net
 40.126.7.35	login.live.com
@@ -38,14 +38,14 @@
 54.76.84.156	prod-ireland.arkoselabs.com
 3.5.20.177	github-cloud.s3.amazonaws.com
 140.82.112.3	gist.github.com
-140.82.113.6	api.github.com
-140.82.114.25	live.github.com
+140.82.114.5	api.github.com
+140.82.114.26	live.github.com
 140.82.114.18	status.github.com
 3.5.28.113	github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.8.150	github-production-user-asset-6210df.s3.amazonaws.com
 140.82.112.3	github.com
 140.82.113.3	www.github.com
-140.82.113.25	alive.github.com
+140.82.112.25	alive.github.com
 140.82.114.22	collector.githubapp.com
 185.199.108.154	github.githubassets.com
 140.82.112.18	help.github.com
@@ -82,5 +82,5 @@
 185.199.108.133	github.map.fastly.net
 185.199.108.133	desktop.githubusercontent.com
 52.224.38.193	github.dev
-172.253.115.95	translate.googleapis.com
+172.253.122.95	translate.googleapis.com
 142.251.163.100	translate.google.com
